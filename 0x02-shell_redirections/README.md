@@ -6,3 +6,4 @@ A script that prints out 2 file files from another directory
 A script that prints out the last 10 lines of a file
 A script that prints out the first 10 lines of a file
 A script that creates a file and echos a text to it
+A script that prints the list of a directory into a file, if the file does not exist it will be created
